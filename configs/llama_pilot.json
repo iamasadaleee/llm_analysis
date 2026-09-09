@@ -1,0 +1,12 @@
+{
+  "sample_size": 10,
+  "seed": 42,
+  "provider": "ollama",
+  "model": "llama3.2:3b",
+  "reasoning_effort": "low",
+  "max_output_tokens": 1024,
+  "timeout_seconds": 300,
+  "max_attempts": 1,
+  "judge_enabled": true,
+  "output_dir": "runs/pubmedqa_llama32_3b_pilot"
+}
